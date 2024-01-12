@@ -1,0 +1,7 @@
+C:\Users\melih\Desktop\C#Tutorial\Classes\WhyUseInterface\bin\Debug\WhyUseInterface.exe.config
+C:\Users\melih\Desktop\C#Tutorial\Classes\WhyUseInterface\bin\Debug\WhyUseInterface.exe
+C:\Users\melih\Desktop\C#Tutorial\Classes\WhyUseInterface\bin\Debug\WhyUseInterface.pdb
+C:\Users\melih\Desktop\C#Tutorial\Classes\WhyUseInterface\obj\Debug\WhyUseInterface.csproj.AssemblyReference.cache
+C:\Users\melih\Desktop\C#Tutorial\Classes\WhyUseInterface\obj\Debug\WhyUseInterface.csproj.CoreCompileInputs.cache
+C:\Users\melih\Desktop\C#Tutorial\Classes\WhyUseInterface\obj\Debug\WhyUseInterface.exe
+C:\Users\melih\Desktop\C#Tutorial\Classes\WhyUseInterface\obj\Debug\WhyUseInterface.pdb

@@ -1,0 +1,7 @@
+C:\Users\melih\Desktop\C#Tutorial\Classes\StaticConstructorMethodExample\bin\Debug\StaticConstructorMethodExample.exe.config
+C:\Users\melih\Desktop\C#Tutorial\Classes\StaticConstructorMethodExample\bin\Debug\StaticConstructorMethodExample.exe
+C:\Users\melih\Desktop\C#Tutorial\Classes\StaticConstructorMethodExample\bin\Debug\StaticConstructorMethodExample.pdb
+C:\Users\melih\Desktop\C#Tutorial\Classes\StaticConstructorMethodExample\obj\Debug\StaticConstructorMethodExample.csproj.AssemblyReference.cache
+C:\Users\melih\Desktop\C#Tutorial\Classes\StaticConstructorMethodExample\obj\Debug\StaticConstructorMethodExample.csproj.CoreCompileInputs.cache
+C:\Users\melih\Desktop\C#Tutorial\Classes\StaticConstructorMethodExample\obj\Debug\StaticConstructorMethodExample.exe
+C:\Users\melih\Desktop\C#Tutorial\Classes\StaticConstructorMethodExample\obj\Debug\StaticConstructorMethodExample.pdb

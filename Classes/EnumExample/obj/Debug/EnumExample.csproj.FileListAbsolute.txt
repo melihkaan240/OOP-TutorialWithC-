@@ -1,0 +1,7 @@
+C:\Users\melih\Desktop\C#Tutorial\Classes\EnumExample\bin\Debug\EnumExample.exe.config
+C:\Users\melih\Desktop\C#Tutorial\Classes\EnumExample\bin\Debug\EnumExample.exe
+C:\Users\melih\Desktop\C#Tutorial\Classes\EnumExample\bin\Debug\EnumExample.pdb
+C:\Users\melih\Desktop\C#Tutorial\Classes\EnumExample\obj\Debug\EnumExample.csproj.AssemblyReference.cache
+C:\Users\melih\Desktop\C#Tutorial\Classes\EnumExample\obj\Debug\EnumExample.csproj.CoreCompileInputs.cache
+C:\Users\melih\Desktop\C#Tutorial\Classes\EnumExample\obj\Debug\EnumExample.exe
+C:\Users\melih\Desktop\C#Tutorial\Classes\EnumExample\obj\Debug\EnumExample.pdb

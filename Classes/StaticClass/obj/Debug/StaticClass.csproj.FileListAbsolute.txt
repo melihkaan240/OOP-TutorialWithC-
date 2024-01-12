@@ -1,0 +1,7 @@
+C:\Users\melih\Desktop\C#Tutorial\Classes\StaticClass\bin\Debug\StaticClass.exe.config
+C:\Users\melih\Desktop\C#Tutorial\Classes\StaticClass\bin\Debug\StaticClass.exe
+C:\Users\melih\Desktop\C#Tutorial\Classes\StaticClass\bin\Debug\StaticClass.pdb
+C:\Users\melih\Desktop\C#Tutorial\Classes\StaticClass\obj\Debug\StaticClass.csproj.AssemblyReference.cache
+C:\Users\melih\Desktop\C#Tutorial\Classes\StaticClass\obj\Debug\StaticClass.csproj.CoreCompileInputs.cache
+C:\Users\melih\Desktop\C#Tutorial\Classes\StaticClass\obj\Debug\StaticClass.exe
+C:\Users\melih\Desktop\C#Tutorial\Classes\StaticClass\obj\Debug\StaticClass.pdb

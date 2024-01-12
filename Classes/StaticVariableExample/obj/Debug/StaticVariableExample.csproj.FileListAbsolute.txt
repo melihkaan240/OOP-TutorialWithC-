@@ -1,0 +1,7 @@
+C:\Users\melih\Desktop\C#Tutorial\Classes\StaticVariableExample\bin\Debug\StaticVariableExample.exe.config
+C:\Users\melih\Desktop\C#Tutorial\Classes\StaticVariableExample\bin\Debug\StaticVariableExample.exe
+C:\Users\melih\Desktop\C#Tutorial\Classes\StaticVariableExample\bin\Debug\StaticVariableExample.pdb
+C:\Users\melih\Desktop\C#Tutorial\Classes\StaticVariableExample\obj\Debug\StaticVariableExample.csproj.AssemblyReference.cache
+C:\Users\melih\Desktop\C#Tutorial\Classes\StaticVariableExample\obj\Debug\StaticVariableExample.csproj.CoreCompileInputs.cache
+C:\Users\melih\Desktop\C#Tutorial\Classes\StaticVariableExample\obj\Debug\StaticVariableExample.exe
+C:\Users\melih\Desktop\C#Tutorial\Classes\StaticVariableExample\obj\Debug\StaticVariableExample.pdb

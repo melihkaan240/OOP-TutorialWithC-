@@ -1,0 +1,7 @@
+C:\Users\melih\Desktop\C#Tutorial\Classes\WhyAbstractClass\bin\Debug\WhyAbstractClass.exe.config
+C:\Users\melih\Desktop\C#Tutorial\Classes\WhyAbstractClass\bin\Debug\WhyAbstractClass.exe
+C:\Users\melih\Desktop\C#Tutorial\Classes\WhyAbstractClass\bin\Debug\WhyAbstractClass.pdb
+C:\Users\melih\Desktop\C#Tutorial\Classes\WhyAbstractClass\obj\Debug\WhyAbstractClass.csproj.AssemblyReference.cache
+C:\Users\melih\Desktop\C#Tutorial\Classes\WhyAbstractClass\obj\Debug\WhyAbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\melih\Desktop\C#Tutorial\Classes\WhyAbstractClass\obj\Debug\WhyAbstractClass.exe
+C:\Users\melih\Desktop\C#Tutorial\Classes\WhyAbstractClass\obj\Debug\WhyAbstractClass.pdb

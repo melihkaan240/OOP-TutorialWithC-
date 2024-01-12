@@ -1,0 +1,7 @@
+C:\Users\melih\Desktop\C#Tutorial\Classes\GenericKoleksiyon\bin\Debug\GenericKoleksiyon.exe.config
+C:\Users\melih\Desktop\C#Tutorial\Classes\GenericKoleksiyon\bin\Debug\GenericKoleksiyon.exe
+C:\Users\melih\Desktop\C#Tutorial\Classes\GenericKoleksiyon\bin\Debug\GenericKoleksiyon.pdb
+C:\Users\melih\Desktop\C#Tutorial\Classes\GenericKoleksiyon\obj\Debug\GenericKoleksiyon.csproj.AssemblyReference.cache
+C:\Users\melih\Desktop\C#Tutorial\Classes\GenericKoleksiyon\obj\Debug\GenericKoleksiyon.csproj.CoreCompileInputs.cache
+C:\Users\melih\Desktop\C#Tutorial\Classes\GenericKoleksiyon\obj\Debug\GenericKoleksiyon.exe
+C:\Users\melih\Desktop\C#Tutorial\Classes\GenericKoleksiyon\obj\Debug\GenericKoleksiyon.pdb

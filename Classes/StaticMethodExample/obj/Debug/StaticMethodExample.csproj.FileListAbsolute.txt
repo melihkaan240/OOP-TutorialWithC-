@@ -1,0 +1,7 @@
+C:\Users\melih\Desktop\C#Tutorial\Classes\StaticMethodExample\bin\Debug\StaticMethodExample.exe.config
+C:\Users\melih\Desktop\C#Tutorial\Classes\StaticMethodExample\bin\Debug\StaticMethodExample.exe
+C:\Users\melih\Desktop\C#Tutorial\Classes\StaticMethodExample\bin\Debug\StaticMethodExample.pdb
+C:\Users\melih\Desktop\C#Tutorial\Classes\StaticMethodExample\obj\Debug\StaticMethodExample.csproj.AssemblyReference.cache
+C:\Users\melih\Desktop\C#Tutorial\Classes\StaticMethodExample\obj\Debug\StaticMethodExample.csproj.CoreCompileInputs.cache
+C:\Users\melih\Desktop\C#Tutorial\Classes\StaticMethodExample\obj\Debug\StaticMethodExample.exe
+C:\Users\melih\Desktop\C#Tutorial\Classes\StaticMethodExample\obj\Debug\StaticMethodExample.pdb
